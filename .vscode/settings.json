@@ -4,6 +4,8 @@
         "fastify",
         "findfriend",
         "rocketseat",
-        "tsup"
+        "tsconfid",
+        "tsup",
+        "wacth"
     ]
 }
